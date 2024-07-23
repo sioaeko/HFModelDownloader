@@ -1,6 +1,6 @@
 # Hugging Face Model Downloader
 
-<img src="https://github.com/sioaeko/HuggingFaceModelDownloader/assets/101755125/37296555-5c72-4b3a-93d1-9626b131ad28" width="80%"></img>
+<img src="https://github.com/user-attachments/assets/1f096ce3-b0b8-490f-a56a-8728e1050497" width="90%"></img>
 
 
 A Python script for efficiently downloading and reconstructing large Hugging Face model files by splitting them into manageable chunks.
